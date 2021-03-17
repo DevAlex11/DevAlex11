@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevAlex11
+- 👋 Hi, I’m Aleksandr // @DevAlex11
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning HTML, CSS, JS, Angular
 - 💞️ I’m looking to collaborate on easy beginner projects to gain exp.
