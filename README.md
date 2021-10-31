@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandr // @DevAlex11
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning HTML, CSS, JS, Angular
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on easy beginner projects to gain exp.
 - 📫 How to reach me You always can reach me by email - aaleksejevs11@gmail.com 
 
